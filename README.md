@@ -4,6 +4,9 @@ Comparative Analysis of Alumina and Mullite as Thermal Barrier Coatings for Turb
 # Overview
 The project investigates and compares Alumina (Al2O3) and Mullite (3Al2O3·2SiO2) as thermal barrier coatings (TBCs) on turbine blade alloys. The focus is on their manufacturing costs and surface hardness when applied using different deposition methods.
 
+# Clone the repository
+git clone https://github.com/Tima-R/TBC.git
+
 # Objectives and Goals
 To compare the cost-effectiveness and surface hardness of Alumina and Mullite as TBCs on turbine blades.
 To assess the impact of different deposition methods (EBPVD, CVD, and PVD) on the performance of these coatings.
