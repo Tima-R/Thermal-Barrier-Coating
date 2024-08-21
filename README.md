@@ -1,4 +1,4 @@
-# TBC
+# Thermal Barrier Coating
 Comparative Analysis of Alumina and Mullite as Thermal Barrier Coatings for Turbine Blades
 
 # Overview
